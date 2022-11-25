@@ -31,7 +31,8 @@
 ## ⭐ My Github Account Stats
 <a width="120"> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhormanMera&theme=react&show_icons=true)</a>
 <a width="120">![](https://github-readme-streak-stats.herokuapp.com/?user=JhormanMera&theme=react&hide_border=true)</a>
-<summary align="center">:trophy: Trophies :trophy:</summary>
+
+## :trophy: Trophies :trophy:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JhormanMera&amp;theme=dracula" alt="JhormanMera" /></a> </p>
 
 
