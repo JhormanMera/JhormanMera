@@ -35,6 +35,6 @@
 </p>  
 
 ## ⭐ My Github Account Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhormanMera&show_icons=true)
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=JhormanMera&hide_border=true&area=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=JhormanMera&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhormanMera&theme=redical&show_icons=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=JhormanMera&theme=redical&hide_border=true&area=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=JhormanMera&theme=redical&hide_border=true)
