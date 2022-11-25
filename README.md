@@ -8,10 +8,9 @@
 import Desenvolvedor from 'JhormanMera';
 
 class AboutMe extends Developer {
-  nome     = 'Jhorman Mera';
+  name     = 'Jhorman Mera';
   area    = 'Telematics Engineering Student';
-  trabalho  = 'Onde trabalha';
-  local = 'Local';
+  job  = null;
 }
 ```
 
