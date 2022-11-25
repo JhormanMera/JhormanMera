@@ -18,21 +18,19 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link" /></a>
-
+  <a href="jhormera@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jhormera@gmail.com" /></a>
+  
+  <a href="jhormera@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-jhormera@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhormera@gmail.com" /></a>
+  
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhorman-mera-49715a244/"/>
 </a>
 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link"/></a>
-
   <a href="https://instagram.com/mera_jm_" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/mera_jm_"/></a>
 
-  <a href="https://github.com/JhormanMera" alt="Follow">
-  <img src="https://img.shields.io/github/followers/JhormanMera?label=follow&style=social"/></a>
 </p>  
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
