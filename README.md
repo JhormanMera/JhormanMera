@@ -19,9 +19,9 @@ class AboutMe extends Developer {
 ```js
 class Skills extends Developer {
   languajes  = [Java, JavaScript, HTML, CSS];
-  database=[MySQL];
+  database = [MySQL];
   tools = [Git, Github, Postman, Visual Studio, Visual Studio Code, IntelliJ IDEA, Eclipse IDE, MATLAB]
-  learning = [Php];
+  learning = [Php, Kotlin, Firestore];
 ```
 
 ### 🌍 Reach me: ⤵️
