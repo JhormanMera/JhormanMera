@@ -3,7 +3,7 @@
 
   # Jhorman Mera
   ## Telematics Engineering Student.<br>
-
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=JhormanMera&label=Profile%20views&color=0e75b6&style=flat" alt="JhormanMera" /> </p>
   ## 📝 Languajes: <br>
   # Java.
 
