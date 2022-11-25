@@ -5,11 +5,11 @@
 <img src="https://komarev.com/ghpvc/?username=JhormanMera&label=Profile%20views&color=0e75b6&style=flat" alt="JhormanMera"/> 
 
 ```js
-import Desenvolvedor from 'SeuNick';
+import Desenvolvedor from 'JhormanMera';
 
-class SobreMim extends Desenvolvedor {
-  nome     = 'Seu nome';
-  area    = 'Sua área';
+class AboutMe extends Developer {
+  nome     = 'Jhorman Mera';
+  area    = 'Telematics Engineering Student';
   trabalho  = 'Onde trabalha';
   local = 'Local';
 }
@@ -28,18 +28,15 @@ class SobreMim extends Desenvolvedor {
     <a href="mailto:jhorman.mera1@u.icesi.edu.co"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-0e75b6?style=flat&logo=gmail&logoColor=white"></a>
 </p>
   
-
-## 📝Languajes and 💼Tools:
+## 📝Skills 💼:
   
 ```js
-class Skills extends Desenvolvedor {
-  linguagens  = ['Suas linguagens'];
-  bibliotecas  = ['Suas bibliotecas'];
-  frameworks = ['Seus frameworks'];
+class Skills extends Developer {
+  languajes  = [Java, JavaScript, HTML, CSS, MySQL];
+  tools = [Git, Github, Postman, Visual Studio, Visual Studio Code, ]
+  learning = [Php];
 }
 ```  
-
-  
 
 
 ## ⭐ My Github Account Stats
