@@ -33,6 +33,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JhormanMera&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="JhormanMera" width="60%">
 
 ## :trophy: Trophies :trophy:
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center"src="https://github-profile-trophy.vercel.app/?username=JhormanMera&amp;theme=onedark" alt="JhormanMera" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center"src="https://github-profile-trophy.vercel.app/?username=JhormanMera&amp;theme=algolia" alt="JhormanMera" /></a> </p>
 
 
