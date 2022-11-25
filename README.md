@@ -33,12 +33,11 @@
 </p>  
 
 ## ⭐ My Github Account Stats
-<p>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JhormanMera&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="JhormanMera" width="60%">
 <img align= "right"src="https://github-readme-stats.vercel.app/api/top-langs?username=JhormanMera&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="JhormanMera" width="37%">
 <img align= "center"src="https://github-readme-streak-stats.herokuapp.com/?user=JhormanMera&theme=react&hide_border=true&locale=en&layout=compact" alt="JhormanMera" width="60%">
- </p>
-<br>
+ 
 
 ## :trophy: Trophies :trophy:
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center"src="https://github-profile-trophy.vercel.app/?username=JhormanMera&amp;theme=dracula" alt="JhormanMera" /></a> </p>
