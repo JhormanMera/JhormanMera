@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  <a href="https://mail.google.com/mail/u/0/#search/jhormera%40gmail.com?compose=new" alt="Gmail">
+  <a href="https://mail.google.com/mail/u/0/#search/jhormera%40gmail.com?compose=jhormera@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jhormera@gmail.com" /></a>
     
   <a href="#" alt="Linkedin">
