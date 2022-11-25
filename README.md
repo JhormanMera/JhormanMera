@@ -12,6 +12,12 @@ class AboutMe extends Developer {
   area    = 'Telematics Engineering Student';
   job  = null;
 }
+
+class Skills extends Developer {
+  languajes  = [Java, JavaScript, HTML, CSS];
+  database=[MySQL];
+  tools = [Git, Github, Postman, Visual Studio, Visual Studio Code, IntelliJ IDEA, Eclipse IDE, MATLAB]
+  learning = [Php];
 ```
 
 ### 🌍 Reach me: ⤵️
@@ -27,17 +33,8 @@ class AboutMe extends Developer {
     <a href="mailto:jhorman.mera1@u.icesi.edu.co"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-0e75b6?style=flat&logo=gmail&logoColor=white"></a>
 </p>
   
-### 💼📝Skills:
-  
-```js
-class Skills extends Developer {
-  languajes  = [Java, JavaScript, HTML, CSS];
-  database=[MySQL];
-  tools = [Git, Github, Postman, Visual Studio, Visual Studio Code, IntelliJ IDEA, Eclipse IDE, MATLAB]
-  learning = [Php];
-}
-```  
 
+  
 
 ### ⭐ My Github Account Stats
 <p>
