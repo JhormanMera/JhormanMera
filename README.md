@@ -8,17 +8,12 @@
 import Developer from 'JhormanMera';
 
 class AboutMe extends Developer {
-  name     = 'Jhorman Mera';
-  area    = 'Telematics Engineering Student';
-  university=
-  ```
-  ['ICESI';](https://www.icesi.edu.co/facultad-ingenieria/ingenieria-telematica) 
-  
-```js  
-  job  = null;
+  name = 'Jhorman Mera';
+  area = 'Telematics Engineering Student';
+  job = null;
 }
 ```
-
+ 
 ### 💼📝Skills:
 
 ```js
@@ -51,6 +46,6 @@ class Skills extends Developer {
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JhormanMera&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="JhormanMera" width="40%">
 <p align="center" > <img align="center" src="https://github-readme-stats.vercel.app/api?username=JhormanMera&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="JhormanMera" width="60%"></p>
 </p>
-<!--### :trophy: Trophies :trophy:
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center"src="https://github-profile-trophy.vercel.app/?username=JhormanMera&amp;theme=algolia" alt="JhormanMera" /></a> </p> -->
+### :trophy: Trophies :trophy:
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center"src="https://github-profile-trophy.vercel.app/?username=JhormanMera&amp;theme=algolia" alt="JhormanMera" /></a> </p>
 
