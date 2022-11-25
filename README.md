@@ -10,6 +10,7 @@ import Developer from 'JhormanMera';
 class AboutMe extends Developer {
   name     = 'Jhorman Mera';
   area    = 'Telematics Engineering Student';
+  university= ['ICESI';](https://www.icesi.edu.co/facultad-ingenieria/ingenieria-telematica) 
   job  = null;
 }
 ```
