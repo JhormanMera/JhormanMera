@@ -33,10 +33,10 @@
 </p>  
 
 ## ⭐ My Github Account Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=JhormanMera&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="JhormanMera" width="60%">
-<img align= "right"src="https://github-readme-stats.vercel.app/api/top-langs?username=JhormanMera&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="JhormanMera" width="37%">
+<img align="Center" src="https://github-readme-stats.vercel.app/api?username=JhormanMera&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="JhormanMera" width="60%">
+<img align= "right"src="https://github-readme-stats.vercel.app/api/top-langs?username=JhormanMera&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="JhormanMera" width="40%">
+<img align= "left"src="https://github-readme-streak-stats.herokuapp.com/?user=JhormanMera&theme=react&hide_border=true&locale=en&layout=compact" alt="JhormanMera" width="50%">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=JhormanMera&theme=react&hide_border=true)
 
 ## :trophy: Trophies :trophy:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JhormanMera&amp;theme=dracula" alt="JhormanMera" /></a> </p>
