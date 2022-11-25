@@ -1,3 +1,4 @@
+## 🌍 Reach me: ⤵️
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=JhormanMera&label=Profile%20views&color=0e75b6&style=flat" alt="JhormanMera"/>   
@@ -22,16 +23,6 @@
 <a href = "https://www.jetbrains.com/idea/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="idea" width="40" height="40" ></a> </p>
   
 </p>
-
-<p align="left">
-  🌍 Reach me: ⤵️
-</p>
-
-<p align="left">
-   
-
-
-</p>  
 
 ## ⭐ My Github Account Stats
 
