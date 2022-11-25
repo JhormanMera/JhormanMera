@@ -82,3 +82,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-u
 
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=pkkulhari&theme=redical&hide_border=true&area=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=pkkulhari&theme=radical&hide_border=true)
