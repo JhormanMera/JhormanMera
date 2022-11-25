@@ -35,7 +35,7 @@
 </p>  
 
 ## ⭐ My Github Account Stats
-<p align="left">  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhormanMera&theme=redical&show_icons=true) </p>
+<a><p align="left">  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhormanMera&theme=redical&show_icons=true)</a> </p>
 <p align="right"> ![](https://github-readme-streak-stats.herokuapp.com/?user=JhormanMera&theme=redical&hide_border=true) </p>
 
 
