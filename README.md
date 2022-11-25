@@ -41,6 +41,6 @@
 <br>
 
 
-<p> ## :trophy: Trophies :trophy: <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center"src="https://github-profile-trophy.vercel.app/?username=JhormanMera&amp;theme=dracula" alt="JhormanMera" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center"src="https://github-profile-trophy.vercel.app/?username=JhormanMera&amp;theme=dracula" alt="JhormanMera" /></a> </p>
 
 
