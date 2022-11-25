@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/jhorman-mera-49715a244/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhorman-mera-49715a244/"/>
      <a href="https://twitter.com/mera_jhorman" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-0e76a8?style=flat-square&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/jhorman-mera-49715a244/"/>
+  <img src="https://img.shields.io/badge/-Twitter-0e76a8?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mera_jhorman"/>
 </a>
   <a href="https://instagram.com/mera_jm_" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/mera_jm_"/></a>
