@@ -1,5 +1,15 @@
-## 🌍 Reach me: ⤵️
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+```js
+import Desenvolvedor from 'SeuNick';
+
+class SobreMim extends Desenvolvedor {
+  nome     = 'Seu nome';
+  area    = 'Sua área';
+  trabalho  = 'Onde trabalha';
+  local = 'Local';
+}
+``` 
+## 🌍 Reach me: ⤵️
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=JhormanMera&label=Profile%20views&color=0e75b6&style=flat" alt="JhormanMera"/>   
   <a href="https://www.linkedin.com/in/jhorman-mera-49715a244/" alt="Linkedin">
@@ -15,7 +25,13 @@
   
 
 ## 📝Languajes and 💼Tools:
-  
+```js
+class Skills extends Desenvolvedor {
+  linguagens  = ['Suas linguagens'];
+  bibliotecas  = ['Suas bibliotecas'];
+  frameworks = ['Seus frameworks'];
+}
+```  
 
   
 
