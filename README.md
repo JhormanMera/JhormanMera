@@ -1,10 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JhormanMera&label=Profile%20views&color=0e75b6&style=flat" alt="JhormanMera"/>   
-  <a href="#" alt="Linkedin">
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=JhormanMera&label=Profile%20views&color=0e75b6&style=flat" alt="JhormanMera"/>   
+  <a href="https://www.linkedin.com/in/jhorman-mera-49715a244/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhorman-mera-49715a244/"/>
 </a>
   <a href="https://instagram.com/mera_jm_" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/mera_jm_"/></a></p>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/mera_jm_"/></a>
+</p>
   
 
   <p align="left"> <br>📝Languajes and 💼Tools:<br></p>
