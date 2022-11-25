@@ -12,7 +12,11 @@ class AboutMe extends Developer {
   area    = 'Telematics Engineering Student';
   job  = null;
 }
+```
 
+### 💼📝Skills:
+
+```js
 class Skills extends Developer {
   languajes  = [Java, JavaScript, HTML, CSS];
   database=[MySQL];
