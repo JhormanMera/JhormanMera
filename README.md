@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=JhormanMera&label=Profile%20views&color=0e75b6&style=flat" alt="JhormanMera"/> 
 
 ```js
-import Desenvolvedor from 'JhormanMera';
+import Developer from 'JhormanMera';
 
 class AboutMe extends Developer {
   name     = 'Jhorman Mera';
@@ -31,7 +31,8 @@ class AboutMe extends Developer {
   
 ```js
 class Skills extends Developer {
-  languajes  = [Java, JavaScript, HTML, CSS, MySQL];
+  languajes  = [Java, JavaScript, HTML, CSS];
+  database=[MySQL];
   tools = [Git, Github, Postman, Visual Studio, Visual Studio Code, IntelliJ IDEA, Eclipse IDE, MATLAB]
   learning = [Php];
 }
