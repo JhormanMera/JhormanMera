@@ -31,6 +31,8 @@
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/mera_jm_"/></a>
   
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+  
   <a href="#" alt="Follow">
   <img src="https://img.shields.io/github/followers/JhormanMera?label=follow&style=social"/></a>
 </p>  
