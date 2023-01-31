@@ -46,7 +46,7 @@ class Skills extends Developer {
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhormanMera&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="JhormanMera" width="40%">
 
-<p align="center" > <img align="center" src="https://github-readme-stats.vercel.app/api/?user=JhormanMera&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="JhormanMera" width="60%"></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/?username=JhormanMera&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="JhormanMera" width="60%"></p>
 </p>
 
 <!--
