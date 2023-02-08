@@ -26,7 +26,7 @@ class Skills extends Developer {
 
 ### 🌍 Reach me: ⤵️
 <p align="left">   
-  <a href="https://www.linkedin.com/in/jhorman-mera-49715a244/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/jhormanmera/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhorman-mera-49715a244/"/>
      <a href="https://twitter.com/mera_jhorman" alt="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-0e76a8?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mera_jhorman"/>
