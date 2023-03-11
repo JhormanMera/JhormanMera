@@ -31,8 +31,10 @@ class Skills extends Developer {
      <a href="https://twitter.com/mera_jhorman" alt="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-0e76a8?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mera_jhorman"/>
 </a>
-  <a href="https://instagram.com/mera_jm_" alt="Instagram">
+ <!--
+    <a href="https://instagram.com/mera_jm_" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/mera_jm_"/></a>
+-->
     <a href="mailto:jhormera@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail"></a>
     <a href="mailto:jhorman.mera1@u.icesi.edu.co"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-0e75b6?style=flat&logo=gmail&logoColor=white"></a>
 </p>
