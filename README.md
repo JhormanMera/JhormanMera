@@ -22,6 +22,7 @@ class Skills extends Developer {
   database = [MySQL];
   tools = [Git, Github, Postman, Visual Studio, Visual Studio Code, IntelliJ IDEA, Eclipse IDE, MATLAB]
   learning = [Php, Kotlin, Firestore];
+  }
 ```
 
 ### 🌍 Reach me: ⤵️
