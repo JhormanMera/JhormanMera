@@ -12,7 +12,7 @@ class AboutMe extends Engineer {
   role     = 'Cloud & Infrastructure Engineer';
   company  = 'Calipso Comunicaciones S.A.';
   location = '🇨🇴 Colombia';
-  focus    = ['Cloud Architecture', 'Infrastructure as Code', 'Automation'];
+  focus    = ['Cloud Architecture', 'Infrastructure as Code', 'Linux Systems & Automation'];
 }
 ```
 
@@ -21,7 +21,7 @@ class AboutMe extends Engineer {
 ### ☁️ Tech Stack
 
 ```js
-class Skills extends DevSecOps {
+class Skills extends Engineer {
   cloud        = [AWS, GCP, Azure, IBMCloud];
   languages    = [Python, Bash, Java, PHP];
   iac          = [Terraform, Ansible];
